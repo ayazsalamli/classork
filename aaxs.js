@@ -2,7 +2,7 @@ let user = prompt ( 'LOGIN');
 let parol = prompt ( 'PASWORD');
 let netice;
 
- if (user == 'admin' && parol == '181818') {
+ if (user == 'admin' && parol == '123456') {
     netice = ' ADMIN , HI you are admin';
 }
 
